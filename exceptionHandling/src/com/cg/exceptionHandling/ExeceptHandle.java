@@ -9,7 +9,6 @@ public class ExeceptHandle {
 			int a=0;
 			int b=10/a;
 			String name=null;
-			
 			System.out.println(name.length());
 		}
 		catch(ArithmeticException e) {
